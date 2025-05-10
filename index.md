@@ -36,4 +36,4 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 
 ## Custom size image link using HTML tags and inline CSS
-<a href="https://timeflowsneverend.github.io/skills-communicate-using-markdown/"><img style="width: 100px;" src="https://imgs.search.brave.com/2QJ-QTvvuwpY6_c5KQfkiXI3aVABAGZ_H8jen6VlleA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/b3BlbnByb2plY3Qu/b3JnL2Fzc2V0cy9p/bWFnZXMvaWNvbnMv/dXNlci1ndWlkZS1j/OTUwMzhlOC5zdmc"></a>
+<a href="https://timeflowsneverend.github.io/skills-communicate-using-markdown/"><img alt="Link to my page" style="width: 100px;" src="https://imgs.search.brave.com/2QJ-QTvvuwpY6_c5KQfkiXI3aVABAGZ_H8jen6VlleA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/b3BlbnByb2plY3Qu/b3JnL2Fzc2V0cy9p/bWFnZXMvaWNvbnMv/dXNlci1ndWlkZS1j/OTUwMzhlOC5zdmc"></a>
