@@ -29,4 +29,5 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [x] Header using `#`
 - [x] Image using `![readAloud](urlToImg)`
 - [x] Code examples using ````` and `<pre>`
-- [ ] Task list
+- [x] Task list
+![Link to my page](https://timeflowsneverend.github.io/skills-communicate-using-markdown/)
