@@ -25,3 +25,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+## List of things
+- [x] Header using `#`
+- [x] Image using `![readAloud](urlToImg)`
+- [x] Code examples using ````` and `<pre>`
+- [ ] Task list
